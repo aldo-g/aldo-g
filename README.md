@@ -1,25 +1,38 @@
-<h4>I'm Alastair (Ali)</h4>
+# Hi, I'm Alastair (Ali) 👋
 
-Whether with coding or outside the tech world, my main goal is to create better access to the help that people need.
+## About Me
+I'm a DevOps Engineer with a passion for building tools that create meaningful change in international development and public good. With a background in development economics and international relations, I leverage technology to address real-world challenges.
 
-I am now focused upon increasing my tech literacy, and my coding ability, so that I can build tools that have a meaningful impact in peoples lives. If you want to collaborate, please get in touch!
+## What I Do
+- 🔧 DevOps Engineer at Rabobank's Gen!Lab, developing compliant GenAI solutions
+- 🤝 Trustee at the Cameron Grant Memorial Trust, managing innovation grants programs
+- 🛠️ Open source contributor and creator of practical developer tools
 
-🌱 I’m currently learning <strong>Python, React and Azure services</strong>
- 
-<hr>
-  <h3 align="left" dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contact me:</h3>
-If you'd like to contact me, please email me at - aldo.e.george@gmail.com
+## Featured Projects
 
-Or get in touch on any of the following platforms! 📫
+### [SQLCore](https://github.com/aldo-g/SQLCore)
+A streamlined Python database interface that provides a unified API for both synchronous and asynchronous database operations. Designed to address common inefficiencies in SQL operations with features like configurable connection pooling and proper transaction handling.
+- Python | ODBC | SQL | GitHub Actions | CI/CD
 
-<p align="left" dir="auto">
+### [Context Compiler VSCode Extension](https://github.com/aldo-g/compile-context-ext)
+A Visual Studio Code extension that helps developers prepare code documentation for Large Language Model interactions, solving the challenge of providing the right context from your codebase to LLMs.
+- TypeScript | Node.js | VS Code API | npm
 
-<a href="https://www.linkedin.com/in/alastair-grant-webdev/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alastair-grant-web-dev" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/alastairegrant/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta - alastairegrant" height="30" width="40" style="max-width: 100%;"></a>
-</p>
-<hr>
+### [Rota Boat](https://github.com/aldo-g/rota-boat)
+A simple yet effective web app to manage shared resources. Built with React and Firebase, it allows users to schedule usage of a shared boat through an intuitive drag-and-drop interface with real-time updates.
+- React.js | Firebase | CI/CD | NoSQL
 
-<!---
-aldo-g/aldo-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technical Skills
+- **Languages**: Python, JavaScript, TypeScript, SQL
+- **Frameworks/Libraries**: React, FastAPI, Quart
+- **Cloud & DevOps**: Azure, Firebase, GitHub Actions, CI/CD pipelines
+- **Database**: SQL, NoSQL
+- **Tools**: VS Code, Docker, npm
+
+## Looking to Collaborate?
+I'm interested in projects that leverage technology for social good, international development, or tooling that improves developer productivity. If you have an idea or project where my skills could be useful, let's connect!
+
+## Get in Touch
+- 📧 Email: aldo.e.george@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alastair-grant-webdev/)
+- 📸 [Instagram](https://www.instagram.com/alastairegrant/)
