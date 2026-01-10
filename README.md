@@ -1,38 +1,33 @@
 # Hi, I'm Alastair (Ali) 👋
 
-## About Me
-I'm a DevOps Engineer with a passion for building tools that create meaningful change in international development and public good. With a background in development economics and international relations, I leverage technology to address real-world challenges.
+I'm a DevOps Engineer with a passion for building tools that create meaningful change in international development and public good. With a background in development economics and international relations, I leverage technology to address real‑world challenges.
+
+I specialize in shipping reliable, compliant systems and building practical products with AI and modern web stacks. If you need someone who can own infrastructure, move quickly, and still care about clarity and quality, I’m your person.
 
 ## What I Do
-- 🔧 DevOps Engineer at Rabobank's Gen!Lab, developing compliant GenAI solutions
-- 🤝 Trustee at the Cameron Grant Memorial Trust, managing innovation grants programs
-- 🛠️ Open source contributor and creator of practical developer tools
+- DevOps Engineer at Rabobank Gen!Lab, delivering compliant GenAI solutions
+- Trustee at the Cameron Grant Memorial Trust, supporting innovation grants
+- Builder of open‑source developer tools and product experiments
 
-## Featured Projects
+## Selected Projects
+- [Vuxi](https://github.com/aldo-g/Vuxi) — AI‑powered UX analysis platform for websites
+- [Selectr](https://apps.apple.com/nl/app/selectr/id6755160110?l=en-GB) — SwiftUI music curation app with swipe UI + previews
+- [Ticktr](https://ticktr.info) — Gemini‑powered Apple Wallet pass generator
+- [SQLCore](https://github.com/aldo-g/SQLCore) — SQL Server library with sync/async support
+- [Compile Context Extension](https://github.com/aldo-g/compile-context-ext) — VS Code extension for LLM context packaging
+- [All Around Australia](https://aldo-g.github.io/all-around-australia/) — Strava‑powered journey map
 
-### [SQLCore](https://github.com/aldo-g/SQLCore)
-A streamlined Python database interface that provides a unified API for both synchronous and asynchronous database operations. Designed to address common inefficiencies in SQL operations with features like configurable connection pooling and proper transaction handling.
-- Python | ODBC | SQL | GitHub Actions | CI/CD
+## Skills
+- **Languages**: Python, TypeScript, JavaScript, SQL, Swift
+- **Frontend**: React, Vite, Tailwind, Leaflet/D3
+- **Backend**: Node.js, Express, FastAPI
+- **DevOps/Cloud**: Azure, Firebase, CI/CD, GitHub Actions
+- **AI**: LLM integrations, vision workflows, prompt systems
 
-### [Context Compiler VSCode Extension](https://github.com/aldo-g/compile-context-ext)
-A Visual Studio Code extension that helps developers prepare code documentation for Large Language Model interactions, solving the challenge of providing the right context from your codebase to LLMs.
-- TypeScript | Node.js | VS Code API | npm
-
-### [Rota Boat](https://github.com/aldo-g/rota-boat)
-A simple yet effective web app to manage shared resources. Built with React and Firebase, it allows users to schedule usage of a shared boat through an intuitive drag-and-drop interface with real-time updates.
-- React.js | Firebase | CI/CD | NoSQL
-
-## Technical Skills
-- **Languages**: Python, JavaScript, TypeScript, SQL
-- **Frameworks/Libraries**: React, FastAPI, Quart
-- **Cloud & DevOps**: Azure, Firebase, GitHub Actions, CI/CD pipelines
-- **Database**: SQL, NoSQL
-- **Tools**: VS Code, Docker, npm
-
-## Looking to Collaborate?
-I'm interested in projects that leverage technology for social good, international development, or tooling that improves developer productivity. If you have an idea or project where my skills could be useful, let's connect!
+## Hire Me
+I’m open to roles or collaborations in DevOps, platform engineering, or product‑focused teams building AI‑enabled tools. I care about mission‑driven work and teams that ship.
 
 ## Get in Touch
-- 📧 Email: aldo.e.george@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/alastair-grant-webdev/)
-- 📸 [Instagram](https://www.instagram.com/alastairegrant/)
+- 📧 Email: alastairegrant@pm.me
+- 💼 LinkedIn: https://www.linkedin.com/in/alastair-grant-webdev/
+- 📸 Instagram: https://www.instagram.com/alastairegrant/
