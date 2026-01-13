@@ -1,11 +1,11 @@
 # Hi, I'm Alastair (Ali) 👋
 
-I'm a DevOps Engineer with a passion for building tools that create meaningful change in international development and public good. With a background in development economics and international relations, I leverage technology to address real‑world challenges.
+I'm a Software Engineer with a passion for building tools that create meaningful change in international development and public good. With a background in development economics and international relations, I leverage technology to address real‑world challenges.
 
 I specialize in shipping reliable, compliant systems and building practical products with AI and modern web stacks. If you need someone who can own infrastructure, move quickly, and still care about clarity and quality, I’m your person.
 
 ## What I Do
-- DevOps Engineer at Rabobank Gen!Lab, delivering compliant GenAI solutions
+- Software Engineer at Rabobank Gen!Lab, delivering compliant GenAI solutions
 - Trustee at the Cameron Grant Memorial Trust, supporting innovation grants
 - Builder of open‑source developer tools and product experiments
 
