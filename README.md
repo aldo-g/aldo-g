@@ -10,7 +10,7 @@ I specialize in shipping reliable, compliant systems and building practical prod
 - Builder of open‑source developer tools and product experiments
 
 ## Selected Projects
-- [Vuxi](https://github.com/aldo-g/Vuxi) — AI‑powered UX analysis platform for websites
+- [Vuxi](https://www.vuxi.ai) — AI‑powered UX analysis platform for websites
 - [Selectr](https://apps.apple.com/nl/app/selectr/id6755160110?l=en-GB) — SwiftUI music curation app with swipe UI + previews
 - [Ticktr](https://ticktr.info) — Gemini‑powered Apple Wallet pass generator
 - [SQLCore](https://github.com/aldo-g/SQLCore) — SQL Server library with sync/async support
