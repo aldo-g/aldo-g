@@ -1,33 +1,28 @@
-# Hi, I'm Alastair (Ali) 👋
+### Hi, I'm Ali 👋
 
-I'm a Software Engineer with a passion for building tools that create meaningful change in international development and public good. With a background in development economics and international relations, I leverage technology to address real‑world challenges.
+Applied AI Engineer with 4+ years of experience building **LLM systems that run in production**: RAG, agentic workflows, and the evaluation and guardrails that make them safe to ship.
 
-I specialize in shipping reliable, compliant systems and building practical products with AI and modern web stacks. If you need someone who can own infrastructure, move quickly, and still care about clarity and quality, I’m your person.
+- 🛠️ **Now:** Founding Engineer at **Gumboots**, automating finance for e-commerce brands. I built "Ask Gumboots", an in-app agent that answers questions from a live financial model through a fixed set of tools, and can propose changes that the user confirms, with every change logged and reversible.
+- 🤖 **Before:** Applied AI Engineer at **SeeMePlease**, building paired agents for UI bug triage and ticket authoring.
+- 🏦 **Before that:** **Rabobank**, where I shipped some of the bank's first GenAI apps: RAG systems over policy and HR documents used daily by thousands of employees.
 
-## What I Do
-- Software Engineer at Rabobank Gen!Lab, delivering compliant GenAI solutions
-- Trustee at the Cameron Grant Memorial Trust, supporting innovation grants
-- Builder of open‑source developer tools and product experiments
+### Selected projects
 
-## Selected Projects
-- [Vuxi](https://www.vuxi.ai) — AI‑powered UX analysis platform for websites
-- [Selectr](https://apps.apple.com/nl/app/selectr/id6755160110?l=en-GB) — SwiftUI music curation app with swipe UI + previews
-- [Ticktr](https://ticktr.info) — Gemini‑powered Apple Wallet pass generator
-- [SQLCore](https://github.com/aldo-g/SQLCore) — SQL Server library with sync/async support
-- [Compile Context Extension](https://github.com/aldo-g/compile-context-ext) — VS Code extension for LLM context packaging
-- [All Around Australia](https://aldo-g.github.io/all-around-australia/) — Strava‑powered journey map
+- **[Obsidian LLM Test](https://github.com/aldo-g/obsidian-llm-test)**: open-source Obsidian plugin (5,000+ downloads) that turns your notes into exam questions and marks your answers. Works with OpenAI, Anthropic, Gemini, Mistral, DeepSeek or local models.
+- **[Prediction Agent](https://github.com/aldo-g/Agent-Time)**: daily trading agent for Manifold Markets. A research step writes a trade plan, a separate step executes only that plan, and a risk check caps bet sizes. LangChain, AWS, Terraform.
+- **[LLM-as-a-Judge Consistency Study](https://github.com/aldo-g/LLM-test-rubric-direct-scoring)**: how stable are vision-model scores across repeated runs, with and without a rubric?
+- **[Vuxi](https://vuxi.ai)**: screenshots a website and uses vision models to write a UX review.
+- **[Compile Context](https://github.com/aldo-g/compile-context-ext)**: VS Code extension for packaging codebase context for LLMs.
 
-## Skills
-- **Languages**: Python, TypeScript, JavaScript, SQL, Swift
-- **Frontend**: React, Vite, Tailwind, Leaflet/D3
-- **Backend**: Node.js, Express, FastAPI
-- **DevOps/Cloud**: Azure, Firebase, CI/CD, GitHub Actions
-- **AI**: LLM integrations, vision workflows, prompt systems
+### Stack
 
-## Hire Me
-I’m open to roles or collaborations in DevOps, platform engineering, or product‑focused teams building AI‑enabled tools. I care about mission‑driven work and teams that ship.
+**AI:** RAG, agentic and multi-agent systems, LLM-as-a-judge evaluation, LangChain, vector databases, OCR
+**Languages:** Python, TypeScript, JavaScript, SQL
+**Frameworks:** FastAPI, React, Next.js, Node.js
+**Cloud:** AWS (incl. Bedrock), Azure, Terraform, Docker, CI/CD
 
-## Get in Touch
-- 📧 Email: alastairegrant@pm.me
-- 💼 LinkedIn: https://www.linkedin.com/in/alastair-grant-webdev/
-- 📸 Instagram: https://www.instagram.com/alastairegrant/
+### Elsewhere
+
+Background in international development (Lund) and international relations (MA, Leiden). Trustee of the Cameron Grant Memorial Trust, a UK mental health charity for young adults.
+
+🌐 [alastairgrant.dev](https://alastairgrant.dev) · 📧 alastairegrant@pm.me · 💼 [LinkedIn](https://www.linkedin.com/in/alastair-grant-webdev/)
